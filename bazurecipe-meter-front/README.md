@@ -1,4 +1,4 @@
-# bazurecipe-meter
+# bazurecipe-meter-front
 
 ## Project setup
 ```
